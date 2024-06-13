@@ -1,0 +1,10 @@
+{
+  "display_name": "Avatar Zoom Tracker",
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "author": "Happydragoon",
+  "version": "1.0.1",
+  "homePage": "https://github.com/Happydragun4now/ST-Avatar-Tracker",
+  "auto_update": true
+}
